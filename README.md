@@ -67,4 +67,3 @@ Model: SELECT * FROM users;
 2. The schema file can be a complete SQL dump or just the CREATE TABLE definitions
 3. Make sure the file is in a readable text format
 4. The model works better with well-structured and commented schemas
-``` 
